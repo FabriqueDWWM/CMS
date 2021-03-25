@@ -119,6 +119,7 @@ Le widget doit être enregistré dans la fonction widgets_init de WP. Ajouter da
         }
     }
 ````
+Activer le plugin
 
 Le widget est maintenant présent dans les Widgets (menu Apparence) :
 
